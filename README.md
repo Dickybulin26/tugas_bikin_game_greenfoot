@@ -5,8 +5,7 @@ repo untuk mengumpulkan tugas oop membuat game dengan menggunakan greenfoot
 # **PENTING!!!**
 --------------------
 file hasil tugas dari oop adalah: <br>
-1. nama_file.format <br>
-2. nama_file.format <br>
+1. BeeWorld_B_08.zip
 
 # author
 Nama      :  Dicky Asqaelani Ibnul Hakim <br>
